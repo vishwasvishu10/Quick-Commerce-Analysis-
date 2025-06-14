@@ -13,3 +13,6 @@ To provide a business-ready, interactive Excel dashboard for quick commerce comp
 
 ## Key Insights Presented:
 Total Sales, Average Sales, Average Rating, Number of items sold.
+
+## Dashboard
+<a href="https://github.com/vishwasvishu10/Quick-Commerce-Analysis-/blob/main/BlinkIT%20dashboard.png">View Dashboard</a>
