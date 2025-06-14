@@ -21,3 +21,5 @@ Total Sales, Average Sales, Average Rating, Number of items sold.
 ![BlinkIT dashboard](https://github.com/user-attachments/assets/08a1d73a-8473-4b9a-a285-c1ed983c3ff5)
 
 
+## Dataset File-
+<a href="[https://github.com/vishwasvishu10/Quick-Commerce-Analysis-/blob/main/BlinkIT%20dashboard.png](https://github.com/vishwasvishu10/Quick-Commerce-Analysis-/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx)">View Dataset File</a>
