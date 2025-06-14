@@ -18,5 +18,6 @@ Total Sales, Average Sales, Average Rating, Number of items sold.
 <a href="https://github.com/vishwasvishu10/Quick-Commerce-Analysis-/blob/main/BlinkIT%20dashboard.png">View Dashboard</a>
 
 
-![BlinkIT dashboard](https://github.com/user-attachments/assets/ae49fbf7-540a-4c90-9ef9-030f3d0780a4)
+![BlinkIT dashboard](https://github.com/user-attachments/assets/08a1d73a-8473-4b9a-a285-c1ed983c3ff5)
+
 
